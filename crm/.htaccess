@@ -1,0 +1,11 @@
+# Desactivar la visualización de archivos dentro de las carpetas
+Options -Indexes
+
+# Las siguientes reglas son para enrutamiento de URL amigable
+RewriteEngine On
+RewriteBase /
+
+# Las siguientes reglas son para enrutamiento de URL amigable
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
