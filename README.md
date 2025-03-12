@@ -28,7 +28,7 @@ This is a **real estate web application** developed in **PHP, MySQL, JavaScript,
 ---
 
 ## Security Considerations 🔒  
-⚠️ **This system is for development/testing purposes only and is not production-ready.**  
+⚠️ **This system is a fully functional first version but is intended for development/testing purposes only and is not production-ready.**
 
 ### 🔹 Recommended future improvements:  
 - 🔑 HTTPS implementation (SSL/TLS).  
