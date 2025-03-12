@@ -1,10 +1,10 @@
 # php-realestate-crm 🏡  
-**Real estate web app with CRM, developed in PHP as my ASIR final project**  
+**Real estate web app with CRM, developed in PHP as my final project for the ASIR Higher Vocational Degree**  
 
 ## About the Project  
 This is a **real estate web application** developed in **PHP, MySQL, JavaScript, HTML, and CSS**. It includes a **CRM system** for managing properties, clients, and collaborators, improving the efficiency of real estate operations.  
 
-📄 This project was developed as my **Final Year Project (TFG)** for the **ASIR Higher Vocational Degree** (*Administration of Networked Computer Systems*).  
+📄 This project was developed as my **Final Project for the ASIR Higher Vocational Degree** (*Administración de Sistemas Informáticos en Red*).  
 
 ---
 
@@ -42,4 +42,4 @@ This is a **real estate web application** developed in **PHP, MySQL, JavaScript,
 👨‍💻 **Julio González Muñiz**  
 🔗 [LinkedIn](https://linkedin.com/in/julio-gm)  
 
-🚀 **Developed as part of my ASIR Final Year Project**  
+🚀 **Developed as part of my Final Project for the ASIR Higher Vocational Degree**  
