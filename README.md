@@ -39,7 +39,7 @@ This is a **real estate web application** developed in **PHP, MySQL, JavaScript,
 ---
 
 ## Author  
-👨‍💻 **Julio González Muñiz**  
+👨‍💻 **Julio González**  
 🔗 [LinkedIn](https://linkedin.com/in/julio-gm)  
 
 🚀 **Developed as part of my Final Project for the ASIR Higher Vocational Degree**  
