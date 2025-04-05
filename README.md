@@ -48,7 +48,7 @@ El sistema se divide en dos componentes principales:
 ## 🗂️ Estructura del Proyecto
 
 ```
-/crm # Sistema CRM (gestión interna)
+/crm                    # Sistema CRM (gestión interna)
 ├── includes/           # Funciones compartidas y conexión a BD
 ├── src/                # Lógica funcional del CRM
 │ ├── inicio/           # Dashboard del sistema
