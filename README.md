@@ -48,16 +48,28 @@ El sistema se divide en dos componentes principales:
 ## 🗂️ Estructura del Proyecto
 
 ```
-/crm # Sistema CRM: gestión interna de inmuebles, clientes y colaboradores 
-├── includes # Archivos compartidos: conexión a la BD, funciones comunes, verificación de login 
-├── src # Código fuente del CRM: dashboards, inserción y gestión de inmuebles, clientes y colaboradores 
-└── templates # Plantillas de vistas y componentes (barra lateral, formularios, etc.)
+/crm # Sistema CRM (gestión interna)
+├── includes/           # Funciones compartidas y conexión a BD
+├── src/                # Lógica funcional del CRM
+│ ├── inicio/           # Dashboard del sistema
+│ ├── inmuebles/        # Gestión de inmuebles (insertar, listar, editar, eliminar)
+│ ├── clientes/         # Alta y gestión de clientes
+│ └── colaboradores/    # Alta y gestión de colaboradores
+└── templates/          # Plantillas HTML comunes del CRM
 
-/web # Sitio web público inmobiliario 
-├── src # Código fuente del sitio: páginas de inicio, búsqueda, detalle de inmuebles 
-└── templates # Plantillas de la interfaz: navegación, pie de página, galerías
+/web                    # Sitio web público (clientes)
+├── src/                # Código del sitio público
+├── templates/          # Plantillas visuales (navegación, footer)
+└── assets/             # Estilos, JS, imágenes generales
 
-/others # Documentación, assets y otros recursos
+/shared                 # Funcionalidades compartidas y login al CRM
+├── includes/           # Conexión BD para visitantes/contacto
+└── images/             # Iconos y recursos visuales compartidos
+
+/data                   # Almacenamiento y control interno
+├── whitelist           # Lista blanca de usuarios permitidos
+├── passwords           # Almacenamiento de contraseñas por defecto (⚠️ inseguro)
+└── ips                 # IPs permitidas por usuario
 ```
 
 ---
