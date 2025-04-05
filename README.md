@@ -92,9 +92,9 @@ El sistema se divide en dos componentes principales:
 
 1. Instalar XAMPP  
 2. Configurar e iniciar Apache y MySQL  
-3. Importar base de datos `inmobiliaria.sql` en phpMyAdmin  
+3. Importar base de datos `inmobiliaria.sql`
 4. Configurar archivos de conexión en `/includes`  
-5. Acceder vía navegador a: `http://localhost/tu_proyecto/web/src/index.php`
+5. Acceder vía navegador a: `http://localhost/php-realestate-crm/web/src/index.php`
 
 ---
 
