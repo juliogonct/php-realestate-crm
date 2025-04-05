@@ -7,7 +7,6 @@ Plataforma integral para potenciar la presencia online y la gestión interna de 
 > ⚠️ **Estado del Proyecto: Funcional pero no apto para producción**
 >
 > Este sistema es completamente funcional en entorno local y ha sido diseñado como una base sólida para un entorno real. Sin embargo, **no incluye aún medidas de seguridad avanzadas ni un entorno de despliegue seguro**, por lo que **no se recomienda su uso en producción sin modificaciones y refuerzos adicionales**.
->
 
 ---
 
