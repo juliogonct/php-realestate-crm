@@ -47,6 +47,7 @@ El sistema se divide en dos componentes principales:
 
 ## 🗂️ Estructura del Proyecto
 
+```
 /crm # Sistema CRM: gestión interna de inmuebles, clientes y colaboradores 
 ├── includes # Archivos compartidos: conexión a la BD, funciones comunes, verificación de login 
 ├── src # Código fuente del CRM: dashboards, inserción y gestión de inmuebles, clientes y colaboradores 
@@ -57,6 +58,7 @@ El sistema se divide en dos componentes principales:
 └── templates # Plantillas de la interfaz: navegación, pie de página, galerías
 
 /others # Documentación, assets y otros recursos
+```
 
 ---
 
