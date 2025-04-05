@@ -67,9 +67,6 @@ El sistema se divide en dos componentes principales:
 └── images/             # Iconos y recursos visuales compartidos
 
 /data                   # Almacenamiento y control interno
-├── whitelist           # Lista blanca de usuarios permitidos
-├── passwords           # Almacenamiento de contraseñas por defecto (⚠️ inseguro)
-└── ips                 # IPs permitidas por usuario
 ```
 
 ---
